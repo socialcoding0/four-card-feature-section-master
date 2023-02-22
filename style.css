@@ -96,7 +96,7 @@ span {
     box-shadow: 0px 25px 40px 1px hsla(234, 12%, 34%, 12%);
 }
 
-.cards div h3 {
+.cards div h2 {
     font-size: 1rem;
     font-weight: 600;
 }
